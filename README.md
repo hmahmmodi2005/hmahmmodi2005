@@ -8,9 +8,8 @@
 </picture>
 
 # My favourite bands
-The Maria's
+- The Maria's
 - Loathe
-  - The Internet
+- The Internet
 
-#Here's a rat
-:shipit:
+# Here's a rat :shipit:
