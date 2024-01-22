@@ -1,4 +1,4 @@
-##This is my markdown file
+This is my markdown file
 
 #Here is a picture, hopefully this will show up.
 <picture>
