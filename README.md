@@ -1,15 +1,4 @@
-## This is my markdown file
-
-# Here is a picture, hopefully this will show up.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-# My favourite bands
-- The Maria's
-- Loathe
-- The Internet
-
-# Here's a rat :shipit:
+# Welcome to my GitHub Page :shipit:
+I am student at Cegep Heritage College, pursuing an education in their 3 year compressed Computer Science program.
+I share some of my projects and assignments in my repository, my projects use Java, Javascript, Oracle, SQL Server, HTML & CSS, PHP, C#.
+I use what i learn in my programs to create these projects and share them with the world
