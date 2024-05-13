@@ -4,4 +4,4 @@ I share some of my projects and assignments in my repository, my projects use Ja
 I use what I learn in my programs to create these projects and share them with the world. :shipit:
 
 
-For the JAC project, go to both the client folder and the server folder and in the terminal write `npm run dev`
+For the JAC project, go to both the client folder and the server folder and in the terminal write ```npm run dev```
